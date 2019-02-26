@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+body{
+font-family: Times New Roman, serif;
+margin:30px auto;
+width: 70% ;
+font-size: 14pt;
+color:green;
+background-color: yellow;
+}#kover{
+	font-weight:bold;
+}
